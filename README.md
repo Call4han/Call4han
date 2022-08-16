@@ -1,4 +1,4 @@
-
+</html>
     <div id="header" align="center">
         <img src="https://media.giphy.com/media/9E7kUhnT9eDok/giphy.gif" width="200" />
         <h1 align="center">yo I am Wilder 👋</h1>
@@ -12,6 +12,5 @@
             
         </a>
     </div>
+    </html>
     
-    </body>
-</html>
