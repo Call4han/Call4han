@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Call4han/Call4han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    <div id="header" align="center">
+        <img src="https://media.giphy.com/media/9E7kUhnT9eDok/giphy.gif" width="200" />
+        <h1 align="center">yo I am Wilder 👋</h1>
+        <h3 align="center">I am Peruvian trying to be a great developer</h3>
+        
+    </div>
+    <div id="badges" align="center">
+        <a href="https://twitter.com/Call4han_" target="_blank">
+            <img src="https://img.shields.io/twitter/follow/C?color=blue&label=Call4han_&logo=twitter&style=for-the-badge"
+            alt="Twitter Badge"/>
+            
+        </a>
+    </div>
