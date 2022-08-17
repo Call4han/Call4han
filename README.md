@@ -12,5 +12,6 @@ Here a little about me:
 - 🖥️ I am a universal constant
 - 📚 I try to learn from everything
 - 😊 Aliasses: Callahan/Wukong
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
