@@ -8,7 +8,9 @@ and I am Peruvian trying to be a great developer.
 
 
 Here a little about me:
-- xd
-- dxd
+- 📝 You can contact me by: ccasarider@gmail.com
+- 🖥️ I am a universal constant
+- 📚 I try to learn from everything
+- 😊 Aliasses: Callahan/Wukong
 
 
