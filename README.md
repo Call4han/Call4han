@@ -19,28 +19,7 @@ Here a little about me:
 
 
 
-<!--START_SECTION:waka-->
-name: Waka Readme
 
-on:
-  workflow_dispatch: # for manual workflow trigger
-  schedule:
-    - cron: '0 0 * * *' # runs at every 12AM UTC
-
-jobs:
-  update-readme:
-    name: WakaReadme DevMetrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-
-
-
-
-
-<!--END_SECTION:waka-->
 
 
 
