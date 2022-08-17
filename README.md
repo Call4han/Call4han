@@ -22,6 +22,8 @@ Here a little about me:
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Callahan)](https://github.com/Call4han/github-readme-stats)
 
+Wakatime: https://wakatime.com/@Callahan
+
 
 
 
