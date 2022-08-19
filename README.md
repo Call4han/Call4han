@@ -4,6 +4,8 @@ yo I am `Wilder`
 
 and I am Peruvian trying to be a great developer.
 
+![](https://komarev.com/ghpvc/?username=your-github-Call4han&color=blue)
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Call4han&show_icons=true&theme=radical)
