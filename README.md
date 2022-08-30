@@ -5,7 +5,7 @@ yo I am `Wilder`
 and I am Peruvian trying to be a great developer.
 
 
-[https://github-readme-stats.vercel.app/api?username=Call4han&amp;hide=contribs,issues]()
+
 
 
 
