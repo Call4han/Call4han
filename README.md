@@ -8,7 +8,7 @@ and I am Peruvian trying to be a great developer.
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Call4han&show_icons=true&theme=radical)
+
 
 
 Here a little about me:
