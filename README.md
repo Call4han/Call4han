@@ -1,15 +1,13 @@
-`Hello 👋`
 <p align="center">
   <a href="https://github.com/Call4han"><img src="https://images2.alphacoders.com/505/505544.jpg" alt="Wilder Ccasa" /></a>
 </p>
-Wakatime: https://wakatime.com/@Callahan
 
 
-
+`Hello 👋`
 yo I am `Wilder`
 
 and I am Peruvian trying to be a great developer.
-
+Wakatime: https://wakatime.com/@Callahan
 
 
 
