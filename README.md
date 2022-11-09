@@ -1,7 +1,5 @@
 `Hello 👋`
-<p align="center">
-  <a href="https://images2.alphacoders.com/505/505544.jpg"></a>
-</p>
+<p> OLA</p>
 
 
 
