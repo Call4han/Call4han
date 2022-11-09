@@ -1,6 +1,6 @@
 `Hello 👋`
 <p align="center">
-  <a href="https://github.com/DenverCoder1"><img src="https://images2.alphacoders.com/505/505544.jpg" alt="Jonah Lawrence" /></a>
+  <a href="https://github.com/DenverCoder1"><img src="https://images2.alphacoders.com/505/505544.jpg" alt="Wilder Ccasa" /></a>
 </p>
 
 
