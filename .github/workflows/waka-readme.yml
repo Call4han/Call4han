@@ -23,4 +23,4 @@ jobs:
           SHOW_TITLE: true
           BLOCKS: ░▒▓█
           TIME_RANGE: last_7_days
-          SHOW_TIME: false
+          SHOW_TIME: true
