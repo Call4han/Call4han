@@ -21,6 +21,6 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           REPOSITORY: Call4han/Call4han
           SHOW_TITLE: true
-          BLOCKS: ->
+          BLOCKS: ░▒▓█
           TIME_RANGE: last_7_days
           SHOW_TIME: false
