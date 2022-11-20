@@ -21,14 +21,14 @@ Here a little about me:
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 November 2022 - To: 18 November 2022
+From: 12 November 2022 - To: 19 November 2022
 
-Java             20 hrs 38 mins  ████████████████████▓░░░░   82.13 %
-Kotlin           1 hr 14 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
-XML              1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
-JavaScript       55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
-YAML             44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
-Properties       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+Java             22 hrs 2 mins   ████████████████████▓░░░░   83.12 %
+XML              1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
+TypeScript       46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+Kotlin           46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+YAML             44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+JavaScript       22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
 ```
 
 <!--END_SECTION:waka-->
