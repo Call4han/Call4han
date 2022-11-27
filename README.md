@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Call4han"><img src="https://www.shutterstock.com/shutterstock/videos/1069095286/thumb/6.jpg" alt="Wilder Ccasa" /></a>
+  <a href="https://github.com/Call4han"><img src="https://c4.wallpaperflare.com/wallpaper/489/169/165/waves-blue-purple-dark-wallpaper-preview.jpg" alt="Wilder Ccasa" /></a>
 </p>
 
 
