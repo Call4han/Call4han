@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Call4han"><img src="https://media1.giphy.com/media/26AHMBTzc1qJgFfDW/200w.webp?cid=ecf05e47u3mfhg3vo1jigteaddfa88al62lxdhbalkx8o6lr&rid=200w.webp&ct=g" alt="Wilder Ccasa" /></a>
+  <a href="https://github.com/Call4han"><img src="https://media2.giphy.com/media/RlwF2vFb4y7bDnWvcO/200w.webp?cid=ecf05e47c6e2rrnjs8p0f6zknddj4vdvrke7uwihue9osy0q&rid=200w.webp&ct=g" alt="Wilder Ccasa" /></a>
 </p>
 
 
